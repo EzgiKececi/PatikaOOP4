@@ -1,0 +1,14 @@
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\bin\Debug\net8.0\PatikaOOP4.exe
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\bin\Debug\net8.0\PatikaOOP4.deps.json
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\bin\Debug\net8.0\PatikaOOP4.runtimeconfig.json
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\bin\Debug\net8.0\PatikaOOP4.dll
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\bin\Debug\net8.0\PatikaOOP4.pdb
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.AssemblyInfoInputs.cache
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.AssemblyInfo.cs
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.csproj.CoreCompileInputs.cache
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.dll
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\refint\PatikaOOP4.dll
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.pdb
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\PatikaOOP4.genruntimeconfig.cache
+C:\Users\Yavuz\source\repos\PatikaOOP4\PatikaOOP4\obj\Debug\net8.0\ref\PatikaOOP4.dll
