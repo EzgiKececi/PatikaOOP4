@@ -1,1 +1,1 @@
-# PatikaOOP4
+OOP konusundaki encapsulation metodu ile oluşturulan örnek 
